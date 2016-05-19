@@ -2,8 +2,7 @@
 
 ![screenshot](http://i.imgur.com/asratXG.png)
 
-An alternative design (done before the actual re-design of the site) based on somebody's concept design,
-before it was knocked down. I just thought I'd put it up here on github.
+A codification of somebody's concept design of the MNFH website, before it was knocked down. I just thought I'd put it up here on github.
 
 ## Getting Started
 Install node.js if you haven't already, and then run 'npm install' to pull in the dependencies.
