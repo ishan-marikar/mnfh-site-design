@@ -2,7 +2,7 @@
 
 ![screenshot](http://i.imgur.com/asratXG.png)
 
-An alternative design (done before the actual re-design of the site) based on JaneSay's concept design,
+An alternative design (done before the actual re-design of the site) based on somebody's concept design,
 before it was knocked down. I just thought I'd put it up here on github.
 
 ## Getting Started
